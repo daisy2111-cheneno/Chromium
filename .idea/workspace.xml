@@ -13,6 +13,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="CSS File" />
         <option value="HTML File" />
       </list>
     </option>
@@ -35,8 +36,10 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="ToolWindowEvent Log.ShowToolbar" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -58,7 +61,12 @@
       <workItem from="1641900625308" duration="2376000" />
       <workItem from="1641905399778" duration="1886000" />
       <workItem from="1641974922258" duration="1017000" />
-      <workItem from="1641986292988" duration="7451000" />
+      <workItem from="1641986292988" duration="8172000" />
+      <workItem from="1642071338984" duration="9664000" />
+      <workItem from="1642087765429" duration="4595000" />
+      <workItem from="1642096196675" duration="6897000" />
+      <workItem from="1642136754207" duration="1719000" />
+      <workItem from="1642144896182" duration="4499000" />
     </task>
     <servers />
   </component>

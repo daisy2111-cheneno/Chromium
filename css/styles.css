@@ -1,0 +1,38 @@
+form{
+    border: 1px solid black;
+    width: 80%;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: aliceblue;
+}
+
+h3{
+    text-align: center;
+    font-family: Candara;
+    color: brown;
+    font-size: xx-large;
+}
+
+label{
+    display: inline-block;
+    padding: 12px 12px;
+}
+
+.inputstyle{
+    width: 50%;
+    padding: 10px;
+    box-sizing: border-box;
+    margin: 8px;
+}
+
+#thebutton{
+    background-color: brown;
+    padding: 12px;
+    width: 40%;
+    float: right;
+    color: white;
+}
+
+
+
+

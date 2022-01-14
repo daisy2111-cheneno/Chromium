@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Forms</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+<h3>Fill this form</h3>
+<form action="#">
+   <div>
+       <label>Full name</label><br>
+       <input class="inputstyle" type="text" name="fname" placeholder="John">
+   </div>
+   <div>
+       <label>Second name</label><br>
+       <input class="inputstyle" type="text" name="sname" placeholder="Doe">
+   </div>
+   <div>
+       <label>Email Address</label><br>
+       <input class="inputstyle" type="email" name="mail" placeholder="johndoe@example.com">
+   </div>
+    <div>
+        <label>Phone Number</label><br>
+        <input class="inputstyle" type="tel" name="pnumber" placeholder="+254 722 000 000">
+     </div>
+    <div>
+        <label>Github</label><br>
+        <input class="inputstyle" type="url" name="github" placeholder="www.github.com">
+    </div>
+    <div>
+        <label>Date of Birth</label><br>
+        <input class="inputstyle" type="date" name="dob">
+    </div>
+    <div>
+        <label>Location</label><br>
+        <select class="inputstyle" name="location">
+            <option value="nairobi">Nairobi</option>
+            <option value="mombasa">Mombasa</option>
+            <option value="nakuru">Nakuru</option>
+            <option value="kisumu">Kisumu</option>
+            <option value="eldoret">Eldoret</option>
+        </select>
+    </div>
+    <div>
+        <label>Gender</label>
+        <input type="radio" name="gender" value="female">
+        <label>Female</label>
+        <input type="radio" name="gender" value="Male">
+        <label>Male</label>
+    </div>
+    <div>
+        <label>Stack</label>
+        <input type="checkbox" name="stack" value="front end">
+        <label>Front end</label>
+        <input type="checkbox" name="gender" value="back end">
+        <label>Back end</label>
+         <input type="checkbox" name="gender" value="Full stack">
+         <label>Full stack</label>
+    </div>
+
+    <div>
+        <label>Any other Information</label>
+        <textarea name="aoi"  cols="30" rows="10"></textarea>
+    </div>
+
+    <div>
+        <input id="thebutton" type="submit" value="submit">
+    </div>
+</form>
+</body>
+</html>
