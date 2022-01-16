@@ -10,7 +10,6 @@ form{
 
 img{
     width: 20%;
-    im;
 }
 
 h3 {
@@ -26,10 +25,15 @@ h4 {
     color: black;
     background-color: whitesmoke;
 }
-
 label{
     display: inline-block;
     padding: 5px 5px;
+}
+
+.imagesty{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
 }
 
 .inputstyle{
@@ -41,9 +45,12 @@ label{
     }
 
 #button{
-    background-color: darkred;
-    padding: 10px;
     width: 20%;
+    padding: 5px;
+    box-sizing: border-box;
+    margin: 8px;
+    font-family: "Times New Roman";
+    background-color: darkred;
     float: right;
     font-size: large;
     color: white;
@@ -61,4 +68,8 @@ hr{
 a{
     font-family: "Times New Roman";
     text-decoration: none;
+}
+
+.required{
+    color:red;
 }

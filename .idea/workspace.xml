@@ -13,8 +13,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -47,6 +47,9 @@
       <recent name="C:\Users\DAISY\PhpstormProjects\Chromium\images" />
       <recent name="C:\Users\DAISY\PhpstormProjects\Chromium" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\DAISY\PhpstormProjects\Chromium\images" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -66,7 +69,11 @@
       <workItem from="1642087765429" duration="4595000" />
       <workItem from="1642096196675" duration="6897000" />
       <workItem from="1642136754207" duration="1719000" />
-      <workItem from="1642144896182" duration="4499000" />
+      <workItem from="1642144896182" duration="5162000" />
+      <workItem from="1642159174806" duration="9812000" />
+      <workItem from="1642176194934" duration="1405000" />
+      <workItem from="1642188997974" duration="1739000" />
+      <workItem from="1642330226139" duration="715000" />
     </task>
     <servers />
   </component>
