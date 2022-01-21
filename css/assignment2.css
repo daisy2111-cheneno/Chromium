@@ -1,0 +1,150 @@
+.ulstyles{
+    list-style-type: none;
+    background-color: black;
+    overflow: hidden;
+ }
+
+nav{
+    position: fixed;
+}
+
+nav li{
+    float: left;
+
+}
+
+nav li a{
+    color: white;
+    text-decoration: none;
+    padding: 15px 15px;
+    display: block;
+
+}
+
+nav li a:hover{
+    background-color: grey;
+    color: white;
+}
+
+.flexbox{
+    display: flex;
+    width: 30%;
+    height: 30%;
+    }
+
+.texteatc{
+    color: black;
+    text-align: center;
+    font-size: 28px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    position: absolute;
+}
+
+.homepage{
+    width: 100%;
+}
+
+.orderbutton{
+    color: white;
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: black;
+    font-size: 16px;
+    padding: 12px 24px;
+    border: none;
+    border-radius: 5px;
+    display: inline-block;
+}
+
+.orderbutton:hover{
+    background-color: grey;
+    color: white;
+}
+
+
+#menu img{
+    width: 400px;
+    height: 400px;
+    padding: 10px;
+    margin: 10px;
+}
+
+.center{
+    text-align: center;
+}
+
+footer{
+    background-color: black;
+    color: white;
+}
+
+.textfooter{
+    padding:10px;
+    margin:10px;
+}
+
+section{
+    margin: 10px;
+    padding: 10px;
+}
+
+section > div > button  > a{
+    text-decoration: none;
+    color: white;
+}
+
+#awards p{
+    font-size: x-large;
+    text-align: center;
+}
+
+#awards img{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.container{
+    background-color: white;
+    padding: 40px;
+    color: black;
+    border: 1px solid black;
+ }
+
+input,textarea {
+    width: 100%;
+    padding: 5px;
+    margin:10px;
+}
+
+.submitbutton {
+    width: 25%;
+    float: right;
+    padding: 2px 2px;
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 2px;
+}
+
+.submitbutton:hover{
+    background-color: grey;
+}
+
+#contact{
+    background-color: black;
+    color: white;
+}
+
+#menu p{
+    text-align: -webkit-center;
+}
+
+
+
+

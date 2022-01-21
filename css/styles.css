@@ -33,6 +33,9 @@ label{
     color: white;
 }
 
+.rotate{
+    transform: translate(90deg);
+}
 
 
 

@@ -1,0 +1,46 @@
+.container-fluid{
+    background-color: teal;
+}
+
+.styleul{
+    list-style-type: none;
+    text-align: right;
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+}
+
+
+nav li{
+    float:left;
+
+}
+
+nav li a{
+    text-decoration: none;
+    color: white;
+    padding: 15px 15px;
+    display: block;
+}
+
+nav li a:hover{
+    background-color: white;
+    color: black;
+
+}
+
+.bi{
+    border-radius: 50%;
+    background-color: teal;
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+

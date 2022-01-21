@@ -7,7 +7,8 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings">
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/icons/composer.json</pharConfigPath>
     <execution />
   </component>
   <component name="FileTemplateManagerImpl">
@@ -48,6 +49,10 @@
       <recent name="C:\Users\DAISY\PhpstormProjects\Chromium" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\DAISY\PhpstormProjects\Chromium" />
+      <recent name="C:\Users\DAISY\PhpstormProjects\Chromium\js" />
+      <recent name="C:\Users\DAISY\PhpstormProjects\css" />
+      <recent name="C:\Users\DAISY\PhpstormProjects\Chromium\Assignments" />
       <recent name="C:\Users\DAISY\PhpstormProjects\Chromium\images" />
     </key>
   </component>
@@ -80,7 +85,24 @@
       <workItem from="1642415061753" duration="10172000" />
       <workItem from="1642498151376" duration="1005000" />
       <workItem from="1642500543114" duration="713000" />
-      <workItem from="1642504001472" duration="6910000" />
+      <workItem from="1642504001472" duration="9188000" />
+      <workItem from="1642524009339" duration="6367000" />
+      <workItem from="1642575338238" duration="10842000" />
+      <workItem from="1642589311640" duration="851000" />
+      <workItem from="1642592893654" duration="3085000" />
+      <workItem from="1642599260850" duration="13912000" />
+      <workItem from="1642616452574" duration="640000" />
+      <workItem from="1642621324570" duration="30000" />
+      <workItem from="1642659061943" duration="3576000" />
+      <workItem from="1642665788000" duration="2447000" />
+      <workItem from="1642670437520" duration="4248000" />
+      <workItem from="1642677755167" duration="8521000" />
+      <workItem from="1642686895020" duration="46000" />
+      <workItem from="1642687414511" duration="748000" />
+      <workItem from="1642689207954" duration="4409000" />
+      <workItem from="1642699580564" duration="6701000" />
+      <workItem from="1642749575521" duration="7095000" />
+      <workItem from="1642758564677" duration="11547000" />
     </task>
     <servers />
   </component>
