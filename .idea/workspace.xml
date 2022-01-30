@@ -7,15 +7,15 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/icons/composer.json</pharConfigPath>
     <execution />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -28,6 +28,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectId" id="23VfUimGeFRoE11LdyHsUl3Nt1z" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -39,8 +42,9 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="ToolWindowEvent Log.ShowToolbar" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -49,11 +53,11 @@
       <recent name="C:\Users\DAISY\PhpstormProjects\Chromium" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="K:\PhpstormProjects\Chromium\css" />
       <recent name="C:\Users\DAISY\PhpstormProjects\Chromium" />
       <recent name="C:\Users\DAISY\PhpstormProjects\Chromium\js" />
       <recent name="C:\Users\DAISY\PhpstormProjects\css" />
       <recent name="C:\Users\DAISY\PhpstormProjects\Chromium\Assignments" />
-      <recent name="C:\Users\DAISY\PhpstormProjects\Chromium\images" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -103,10 +107,44 @@
       <workItem from="1642699580564" duration="6701000" />
       <workItem from="1642749575521" duration="7095000" />
       <workItem from="1642758564677" duration="11547000" />
+      <workItem from="1642771980153" duration="3018000" />
+      <workItem from="1642775630919" duration="3448000" />
+      <workItem from="1642837204651" duration="12979000" />
+      <workItem from="1642857818582" duration="11232000" />
+      <workItem from="1642876457789" duration="6768000" />
+      <workItem from="1642930116250" duration="18456000" />
+      <workItem from="1642951838174" duration="6520000" />
+      <workItem from="1642963079396" duration="4828000" />
+      <workItem from="1642970467835" duration="504000" />
+      <workItem from="1642994797282" duration="31011000" />
+      <workItem from="1643097773485" duration="1574000" />
+      <workItem from="1643108380812" duration="1751000" />
+      <workItem from="1643111450004" duration="20508000" />
+      <workItem from="1643194740990" duration="16611000" />
+      <workItem from="1643217747378" duration="6848000" />
+      <workItem from="1643266601205" duration="12650000" />
+      <workItem from="1643280954377" duration="12916000" />
+      <workItem from="1643308922860" duration="623000" />
+      <workItem from="1643354803980" duration="33097000" />
+      <workItem from="1643444423435" duration="14221000" />
+      <workItem from="1643466023928" duration="9723000" />
+      <workItem from="1643477860865" duration="9353000" />
+      <workItem from="1643533556270" duration="9391000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
